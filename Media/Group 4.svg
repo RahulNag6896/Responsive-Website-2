@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="33">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_1" data-name="Group 1" transform="translate(-31 -32)">
+        <path id="Layer_1" data-name="Layer 1" transform="translate(31 32)" style="fill:transparent" d="M0 0h31v33H0z"/>
+        <g id="Page-1" transform="translate(35.942 35.962)">
+            <g id="buyucoin_logo-copy" transform="translate(.058 .038)">
+                <g id="Layer-1">
+                    <g id="svg_2">
+                        <path id="svg_3" class="cls-2" d="M11.035.038A11.079 11.079 0 0 0 .058 11.217a11.241 11.241 0 0 0 3.492 8.174.725.725 0 0 0 .573.285.741.741 0 0 0 .688-.491A7 7 0 0 1 6.176 17.2a6.8 6.8 0 0 1 9.74 0 7 7 0 0 1 1.313 1.876c.032.064.063.13.093.2h.01a.73.73 0 0 0 .625.362.713.713 0 0 0 .453-.163l.023-.006a11.239 11.239 0 0 0 3.578-8.256A11.079 11.079 0 0 0 11.035.038zm.126 14.669a3.841 3.841 0 0 1 0-7.68 3.841 3.841 0 0 1 0 7.68z" transform="translate(-.058 -.038)"/>
+                        <ellipse id="svg_4" class="cls-2" cx="3.7" cy="3.768" rx="3.7" ry="3.768" transform="translate(7.393 18.093)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
